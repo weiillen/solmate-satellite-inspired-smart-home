@@ -1,0 +1,1 @@
+# solmate-satellite-inspired-smart-home
