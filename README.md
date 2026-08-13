@@ -101,14 +101,11 @@ The PowerPoint is about **108 MB** because it contains embedded videos, so it is
 ├── ORIGINAL_FILE_MANIFEST.tsv
 ├── assets/
 │   └── preview.png
-└── docs/
-    ├── solmate-project-presentation.pptx
-    └── solmate-project-presentation.pdf
+└── Satelilit project.pptx
+    
 ```
 
-## Preservation
 
-The PowerPoint and PDF in `docs/` are preserved copies of the submitted project artifacts. Their contents were not edited. The README and preview image are portfolio/documentation additions only.
 
 ## Publishing
 
