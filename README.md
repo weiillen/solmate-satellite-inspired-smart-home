@@ -85,8 +85,7 @@ The slides document three stages:
 
 | File | Purpose |
 |---|---|
-| [`docs/solmate-project-presentation.pptx`](docs/solmate-project-presentation.pptx) | Original editable PowerPoint with embedded media and demo videos |
-| [`docs/solmate-project-presentation.pdf`](docs/solmate-project-presentation.pdf) | PDF export for easier browser viewing |
+| [`docs/solmate-project-presentation.pptx`](Satelilit project.pptx) | Original editable PowerPoint with embedded media and demo videos |
 | [`ORIGINAL_FILE_MANIFEST.tsv`](ORIGINAL_FILE_MANIFEST.tsv) | SHA-256 integrity record for preserved source artifacts |
 
 The PowerPoint is about **108 MB** because it contains embedded videos, so it is configured for **Git LFS**.
