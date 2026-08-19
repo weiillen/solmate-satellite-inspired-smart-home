@@ -295,8 +295,3 @@ The slides document three stages:
     
 ```
 
-
-
-## Publishing
-
-Read [`SETUP.md`](SETUP.md) before pushing because the `.pptx` must be uploaded through Git LFS. Also review [`PUBLICATION_NOTES.md`](PUBLICATION_NOTES.md) because the presentation is group work and contains third-party imagery and embedded media.
