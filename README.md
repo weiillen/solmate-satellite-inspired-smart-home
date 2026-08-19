@@ -281,14 +281,7 @@ The slides document three stages:
 - **Checkpoint:** working car control from the web service, wireless communication, basic tracker testing, and remaining power/UI work
 - **Final report:** detailed RF design, sensor setup, ESP32 rationale, React controller behavior, solar control, hardware tests, and project documentation
 
-## Preserved project files
 
-| File | Purpose |
-|---|---|
-| [`docs/solmate-project-presentation.pptx`](Satelilit project.pptx) | Original editable PowerPoint with embedded media and demo videos |
-| [`ORIGINAL_FILE_MANIFEST.tsv`](ORIGINAL_FILE_MANIFEST.tsv) | SHA-256 integrity record for preserved source artifacts |
-
-The PowerPoint is about **108 MB** because it contains embedded videos, so it is configured for **Git LFS**.
 
 ## Repository structure
 
