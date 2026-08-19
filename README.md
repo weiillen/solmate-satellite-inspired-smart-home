@@ -293,8 +293,9 @@ The PowerPoint is about **108 MB** because it contains embedded videos, so it is
 ## Repository structure
 
 ```text
-├── assets/
-│   └── preview.png
+├── docs/
+│   └── presentation-pages
+│   └── solmate-project-presentation.pdf
 ├── LICENSE
 ├── README.md
 └── Satelilit project.pptx
