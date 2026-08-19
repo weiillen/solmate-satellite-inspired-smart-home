@@ -1,11 +1,212 @@
+[README.md](https://github.com/user-attachments/files/31235799/README.md)
 # SOLMATE: Satellite-Inspired Smart Home / Rover System
 
 > A group embedded-systems project combining web control, short-range RF communication, environmental sensing, solar tracking, and a mobile rover platform.
 
 <p align="center">
   <img src="assets/preview.png" alt="SOLMATE project title slide" width="850">
+
+## Project Presentation
+
+> ### 🎥 Want to see the working demonstrations?
+>
+> **The PDF rendered below does not contain the embedded videos.**
+>
+> The original PowerPoint includes the hardware demonstration videos and other embedded media.
+>
+> **[▶ Open / download the original PowerPoint with videos](Satelilit%20project.pptx)**
+
+The complete PDF version of the presentation is displayed directly below.
+
+[Open the PDF separately](docs/solmate-project-presentation.pdf)
+
+---
+<p align="center">
+  <img src="docs/presentation-pages/page-01.png" alt="SOLMATE presentation page 1" width="900">
 </p>
 
+<p align="center">
+  <img src="docs/presentation-pages/page-02.png" alt="SOLMATE presentation page 2" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-03.png" alt="SOLMATE presentation page 3" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-04.png" alt="SOLMATE presentation page 4" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-05.png" alt="SOLMATE presentation page 5" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-06.png" alt="SOLMATE presentation page 6" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-07.png" alt="SOLMATE presentation page 7" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-08.png" alt="SOLMATE presentation page 8" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-09.png" alt="SOLMATE presentation page 9" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-10.png" alt="SOLMATE presentation page 10" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-11.png" alt="SOLMATE presentation page 11" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-12.png" alt="SOLMATE presentation page 12" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-13.png" alt="SOLMATE presentation page 13" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-14.png" alt="SOLMATE presentation page 14" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-15.png" alt="SOLMATE presentation page 15" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-16.png" alt="SOLMATE presentation page 16" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-17.png" alt="SOLMATE presentation page 17" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-18.png" alt="SOLMATE presentation page 18" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-19.png" alt="SOLMATE presentation page 19" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-20.png" alt="SOLMATE presentation page 20" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-21.png" alt="SOLMATE presentation page 21" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-22.png" alt="SOLMATE presentation page 22" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-23.png" alt="SOLMATE presentation page 23" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-24.png" alt="SOLMATE presentation page 24" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-25.png" alt="SOLMATE presentation page 25" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-26.png" alt="SOLMATE presentation page 26" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-27.png" alt="SOLMATE presentation page 27" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-28.png" alt="SOLMATE presentation page 28" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-29.png" alt="SOLMATE presentation page 29" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-30.png" alt="SOLMATE presentation page 30" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-31.png" alt="SOLMATE presentation page 31" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-32.png" alt="SOLMATE presentation page 32" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-33.png" alt="SOLMATE presentation page 33" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-34.png" alt="SOLMATE presentation page 34" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-35.png" alt="SOLMATE presentation page 35" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-36.png" alt="SOLMATE presentation page 36" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-37.png" alt="SOLMATE presentation page 37" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-38.png" alt="SOLMATE presentation page 38" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-39.png" alt="SOLMATE presentation page 39" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-40.png" alt="SOLMATE presentation page 40" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-41.png" alt="SOLMATE presentation page 41" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-42.png" alt="SOLMATE presentation page 42" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-43.png" alt="SOLMATE presentation page 43" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-44.png" alt="SOLMATE presentation page 44" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-45.png" alt="SOLMATE presentation page 45" width="900">
+</p>
+
+<p align="center">
+  <img src="docs/presentation-pages/page-46.png" alt="SOLMATE presentation page 46" width="900">
+</p>
+
+
+---
 ## Overview
 
 **SOLMATE** was developed as a satellite- and Mars-rover-inspired system for the NTHU course **衛星電機系統設計**. The project connects a browser-based controller to an ESP32, an nRF24L01 wireless link, and Arduino-based hardware so a user can remotely control a small vehicle while monitoring sensor data.
