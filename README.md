@@ -293,14 +293,10 @@ The PowerPoint is about **108 MB** because it contains embedded videos, so it is
 ## Repository structure
 
 ```text
-.
-├── README.md
-├── .gitattributes
-├── SETUP.md
-├── PUBLICATION_NOTES.md
-├── ORIGINAL_FILE_MANIFEST.tsv
 ├── assets/
 │   └── preview.png
+├── LICENSE
+├── README.md
 └── Satelilit project.pptx
     
 ```
