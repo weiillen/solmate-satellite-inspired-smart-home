@@ -212,7 +212,7 @@ The complete PDF version of the presentation is displayed directly below.
 
 The presentation documents the project from the initial concept through checkpoint testing and the final system report. It includes hardware photos, architecture diagrams, controller logic, solar-tracker work, sensor monitoring, and embedded demonstration videos.
 
-> This is a **group academic project**. The repository preserves the project materials and documents the system shown in the submitted presentation; it does not claim that every component was produced individually by one contributor.
+
 
 ## System architecture
 
