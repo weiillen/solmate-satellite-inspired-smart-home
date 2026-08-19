@@ -3,8 +3,7 @@
 
 > A group embedded-systems project combining web control, short-range RF communication, environmental sensing, solar tracking, and a mobile rover platform.
 
-<p align="center">
-  <img src="assets/preview.png" alt="SOLMATE project title slide" width="850">
+
 
 ## Project Presentation
 
