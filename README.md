@@ -214,30 +214,6 @@ The presentation documents the project from the initial concept through checkpoi
 
 
 
-## System architecture
-
-```text
-Web / React controller
-        │ HTTP / Wi-Fi
-        ▼
-      ESP32
-        │ SPI
-        ▼
-    nRF24L01
-        )) 2.4 GHz RF ((
-    nRF24L01
-        │
-        ▼
- Arduino-based hardware
-   ├── vehicle motors
-   ├── servo / solar tracker
-   └── sensors
-```
-
-The final deck describes the end-to-end control path as:
-
-**Web service → ESP32 → nRF24L01 → nRF24L01 → Arduino → car / smart-home hardware**.
-
 ## What is demonstrated
 
 - **Web-controlled rover** with forward, reverse, left, right, and stop commands
